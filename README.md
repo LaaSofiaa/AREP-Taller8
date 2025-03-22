@@ -66,7 +66,7 @@ Ejecuta el script para realizar una consulta sobre el tema de interés. Por ejem
 
 Esto devolverá una respuesta generada por el modelo de lenguaje y los documentos utilizados como referencia.
 
-### Evidenicas
+### Evidencias
 ![image](https://github.com/user-attachments/assets/f5777398-661a-4012-b9d3-a0c6899340b2)
 ![image](https://github.com/user-attachments/assets/71b7d45b-f9fa-4cfe-b41f-476cbe611358)
 ![image](https://github.com/user-attachments/assets/0e9d7b6a-99f6-4ad8-8783-0c9f81058f16)
